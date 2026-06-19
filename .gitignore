@@ -1,0 +1,20 @@
+# Ignore generated and non-source folders
+chat_archives/
+tests/
+tools/
+build/
+gaiaviz-skill/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+*.egg-info/
+
+# Editor files
+.vscode/
+.idea/
